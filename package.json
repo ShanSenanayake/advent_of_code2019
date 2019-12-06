@@ -1,0 +1,9 @@
+{
+  "name": "advent_of_code2019",
+  "version": "1.0.0",
+  "description": "Advent of code in js using rambda",
+  "main": "src/index.js",
+  "repository": "https://github.com/ShanSenanayake/advent_of_code2019",
+  "author": "Shan Senanayake",
+  "license": "MIT"
+}
